@@ -7,5 +7,6 @@ use mongodb to save the items
 usage:
 
 autohome: scrapy crawl car_items
+
 bitauto: scrapy crawl bitauto
 
