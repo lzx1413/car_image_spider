@@ -10,3 +10,5 @@ autohome: scrapy crawl car_items
 
 bitauto: scrapy crawl bitauto
 
+16888.com: scrapy  carwl ownerauto
+
