@@ -9,7 +9,7 @@ import pymongo
 class MongoPipeline(object):
 
 #    collection_name = 'car_items'
-    collection_name = 'bitauto'
+    collection_name = 'ownerauto'
 
     def __init__(self, mongo_uri, mongo_db):
         self.mongo_uri = 'localhost'
